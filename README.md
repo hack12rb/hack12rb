@@ -21,13 +21,6 @@
 
 ## 💼 **Experience**
 
-### **Data Science Intern | KhetAI**  
-*May 2024 - Aug 2024*  
-- Developed an **LLM-based chatbot** offering precise answers to farming questions for KhetAI startup.  
-- Devised a **RAG system** to handle queries on over 500 topics, ranging from crop selection to disease management.  
-- Integrated **Qdrant vector database** to dynamically retrieve relevant data based on farmer queries.  
-- Integrated chatbot feature in KhetAI App, achieving **90% positive feedback** during the pilot run.  
-
 ### **Data Analyst Intern | Momentum**  
 *Aug 2023 - Sep 2023*  
 - Executed and optimized **SQL queries** to efficiently analyze **1200+ student records**.  
